@@ -1,6 +1,6 @@
 ## Pharmacy Management System
 
-A web-based Pharmacy Management System developed using Laravel (PHP) to manage pharmacy operations such as staff, customers, membership plans, and customer queries through an admin dashboard.
+A web-based Pharmacy Management System developed using Laravel (PHP) to manage pharmacy operations such as staff, suppliers, medicine types, medicines, stock, sales inventory, and invoices through an admin dashboard.
 
 ## Technologies Used
 Backend: PHP / Laravel
