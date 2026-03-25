@@ -18,7 +18,7 @@ Libraries & Tools:
 ![Profile](assets/images/MyProfile.png)
 ![Category](assets/images/Category.png)
 ![MedTypes](assets/images/MedTypes.png)
-![AddMed](assets/images/AddMedpng)
+![AddMed](assets/images/AddMed.png)
 ![ManageMed](assets/images/ManageMed.png)
 ![Supplier](assets/images/Supplier.png)
 ![ManageSup](assets/images/ManageSup.png)![Login](assets/images/login.png)
