@@ -10,7 +10,7 @@ Libraries & Tools:
     Font Awesome (icons)
     Fetch API (AJAX requests)
 
-## UI elemets
+## UI elements
 ![Login](assets/images/login.png)
 ![ashboard](assets/images/AdminDashboard.png)
 ![Add Users](assets/images/AddUsers.png)
