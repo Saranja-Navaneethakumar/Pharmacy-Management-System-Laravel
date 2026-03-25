@@ -21,7 +21,7 @@ Libraries & Tools:
 ![AddMed](assets/images/AddMed.png)
 ![ManageMed](assets/images/ManageMed.png)
 ![Supplier](assets/images/Supplier.png)
-![ManageSup](assets/images/ManageSup.png)![Login](assets/images/login.png)
+![ManageSup](assets/images/ManageSup.png)
 ![AddStock](assets/images/AddStock.png)
 ![Sales](assets/images/Sales.png)
 ![Invoice](assets/images/Invoice.png)
